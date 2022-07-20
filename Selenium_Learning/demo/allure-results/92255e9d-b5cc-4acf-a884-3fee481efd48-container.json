@@ -1,0 +1,1 @@
+{"uuid":"92255e9d-b5cc-4acf-a884-3fee481efd48","name":"Interview.Ass.setup","children":["63b8dcf7-0e62-4424-824a-50daf5313c7a"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1653566502617,"stop":1653566502627}],"afters":[],"links":[],"start":1653566502616,"stop":1653566502629}
